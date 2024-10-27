@@ -3,9 +3,9 @@
 I am Om, a causal gamer and a programmer. I love working with Web Development as of now.
 
 
-# I am currently working on a project named NotML. It's still far from being completed.
+ I am currently working on a project named NotML. It's still far from being completed.
 
-# I am currently learning Pytorch
+ I am currently learning Pytorch
 
 ## Languages Known
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/660c7504-125d-4d84-adee-4c2a0d2788f8)
