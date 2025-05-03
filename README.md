@@ -6,7 +6,7 @@ I am Om, a causal gamer and a programmer. I love working around Web Dev as of no
   <a href="https://om-chimurkar-v2.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:you@example.com">
+  <a href="mailto:omchimurkar6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -15,7 +15,7 @@ I am Om, a causal gamer and a programmer. I love working around Web Dev as of no
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,firebase,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,firebase,vercel,expressjs,mongodb,sass,tailwind" />
 </p>
 
 ---
