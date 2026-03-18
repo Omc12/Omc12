@@ -5,4 +5,4 @@ I'm a machine learning engineer and full-stack developer specializing in AI/ML a
 On the development side, I create modern web applications using React, Next.js, and TailwindCSS, with backend systems powered by Node.js, Express.js, and FastAPI. I enjoy building intelligent tools that solve real-world problems in finance, inventory management, and data analysis.
 
 🛠️ Tech Stack
-Python, JavaScript, TypeScript, React, Next.js | TensorFlow, PyTorch, scikit-learn | Pandas, NumPy, FastAPI
+Python, JavaScript, TypeScript, React, Next.js | TensorFlow, PyTorch, scikit-learn | Pandas, NumPy, FastAPI, Langchain
