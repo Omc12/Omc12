@@ -13,6 +13,7 @@ Beyond DKV, I'm interested in efficient transformer architectures, AI evaluation
 
 **Find me here**
 
+- **ResearchGate:** https://www.researchgate.net/profile/Om-Chimurkar
 - **Google Scholar:** https://scholar.google.com/citations?user=7NXAM-wAAAAJ
 - **ORCID:** https://orcid.org/0009-0004-0518-4598
 - **LinkedIn:** https://www.linkedin.com/in/om-chimurkar
