@@ -9,7 +9,7 @@ Beyond DKV, I'm interested in efficient transformer architectures, AI evaluation
 **Research**
 
 - **DKV – Differential KV Cache Compression for Scalable Long-Context Inference**
-  - Preprint: https://zenodo.org/records/21539110
+  - Preprint: https://www.researchgate.net/publication/410864213
 
 **Find me here**
 
