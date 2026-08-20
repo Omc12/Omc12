@@ -2,7 +2,7 @@
 
 I'm an AI researcher focused on **large language model inference**, **transformer memory systems**, and **efficient long-context serving**. I enjoy building research that bridges theory and practice, with an emphasis on reproducible experiments, open-source implementations, and production-ready AI systems.
 
-My recent work includes **DKV (Differential KV Cache Compression for Scalable Long-Context Inference)**, an open-source framework for scalable long-context inference that reduces KV-cache memory through differential representations and shared low-rank reconstruction while maintaining generation quality. The project integrates with **Hugging Face Transformers** and has been **submitted to IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)**.
+My recent work includes **DKV (Differential KV Cache Compression for Scalable Long-Context Inference)**, an open-source framework for scalable long-context inference that reduces KV-cache memory through differential representations and shared low-rank reconstruction while maintaining generation quality. The project integrates with **Hugging Face Transformers** and is **Under Review in IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)**.
 
 Beyond DKV, I'm interested in efficient transformer architectures, AI evaluation, model serving, and systems optimisation. I enjoy exploring ideas from first principles and turning them into practical tools that others can reproduce, benchmark, and build upon.
 
