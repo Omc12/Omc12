@@ -8,15 +8,15 @@ I'm also developing **CRBench**, a method-agnostic and resource-aware framework 
 
 Beyond these projects, I work on **LLM inference optimization, GPU systems, KV-cache architectures, long-context evaluation, model serving, and AI benchmarking**. I enjoy taking ideas from first principles, validating them experimentally, and turning them into systems that others can reproduce and extend.
 
-## Current Work
+### *Current Work*
 
 Currently exploring **adaptive KV-cache compression**, **memory-efficient transformer inference**, **long-context evaluation**, and **GPU-optimized LLM serving**.
 
-## Open Source
+### *Open Source*
 
 I believe research is more useful when it can be **reproduced, inspected, and extended**. My projects aim to provide complete implementations, benchmarks, documentation, and reproducible experiments wherever possible.
 
-## Find me here
+### *Find me here*
 
 - **ResearchGate:** https://www.researchgate.net/profile/Om-Chimurkar
 - **Google Scholar:** https://scholar.google.com/citations?user=7NXAM-wAAAAJ
