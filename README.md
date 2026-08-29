@@ -4,7 +4,7 @@ I'm an **AI researcher** focused on **large language model inference**, **transf
 
 My current research includes **DKV (Differential KV Cache Compression)**, a training-free approach to reducing KV-cache memory through anchor representations, low-rank differential reconstruction, and exact residual preservation. DKV combines compression techniques with optimized inference runtimes and is currently **under review at IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)**.
 
-I'm also developing **CRBench**, a method-agnostic and resource-aware framework for evaluating long-context LLM systems. It evaluates contextual capability retention against dense reference models while accounting for memory efficiency and inference performance. The current release is an **initial research release**, with a full version being prepared for **TMLR submission**.
+I'm also developing **CRBench**, a method-agnostic and resource-aware framework for evaluating long-context LLM systems. It evaluates contextual capability retention against dense reference models while accounting for memory efficiency and inference performance. The current release is an **initial research release**, with a full version prepared and submitted to **TMLR**.
 
 Beyond these projects, I work on **LLM inference optimization, GPU systems, KV-cache architectures, long-context evaluation, model serving, and AI benchmarking**. I enjoy taking ideas from first principles, validating them experimentally, and turning them into systems that others can reproduce and extend.
 
